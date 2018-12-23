@@ -1,0 +1,19 @@
+{
+  "name": "ssb-webexthost",
+  "version": "1.0.0",
+  "description": "host app for chrome native messaging extentsions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssbc/ssb-webexthost.git"
+  },
+  "author": "Henry (cryptix@riseup.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ssbc/ssb-webexthost/issues"
+  },
+  "homepage": "https://github.com/ssbc/ssb-webexthost#readme"
+}
